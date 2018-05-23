@@ -1,1 +1,3 @@
 # newloop ... this stuff is what I am making as a start... having trouble with bringing things from repl.it...
+
+what is necessary to achieve what you want? what is currently stopping you?
