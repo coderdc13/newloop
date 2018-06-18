@@ -13,3 +13,5 @@ imagine going through the process from beginning to end considering any challeng
 06 13 2018 0205EDT learn git course? also find out about repl?
 
 06 16 2018 1223EDT behave as you would if it were already true...
+
+06 17 2018 1615EDT need to change STARTING NOW!!!
