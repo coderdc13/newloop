@@ -17,3 +17,5 @@ imagine going through the process from beginning to end considering any challeng
 06 17 2018 1615EDT need to change STARTING NOW!!!
 
 06 21 2018 1229EDT do rally...
+
+06 25 2018 0550EDT do rally, also ask ab office hourse and also ask ab slack t1c
