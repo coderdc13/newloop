@@ -1,1 +1,2 @@
-04AUG2018 0620EDT consider notes...
++++
+07AUG2018 0458EDT continue edits
