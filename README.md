@@ -1,9 +1,19 @@
 +++
+
 07AUG2018 0458EDT continue edits
+
 12AUG2018 1018EDT follow through
+
 16AUG2018 1026EDT bc, bc re, bc research...
+
 20AUG2018 0814EDT preseason...
+
 22AUG2018 1528EDT continue...
+
 24AUG2018 0628EDT keep going...
+
 27AUG2018 0040EDT continue...
+
 31AUG2018 0538EDT remember NOT SSH
+
+06SEP2018 1502EDT continue...
